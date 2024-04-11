@@ -1,10 +1,8 @@
 //Nombre: Cristian Brayan Huanca Chambi  
 //fecha: 11/04/2024
 //
-/*La idea del proyecto es crear una calculadora en C++ que brinde diversas funciones matemáticas útiles, permitiendo al usuario realizar 
-cálculos como la generación de la secuencia de Fibonacci, el cálculo del factorial de un número,
-la suma repetida de un número, y la suma de los cuadrados de los números en un rango definido por el usuario. El programa proporciona un menú interactivo para que el 
-usuario elija la operación deseada y luego ingrese los valores necesarios para realizar el cálculo*/
+/*La idea del proyecto es crear una calculadora en C++ que permite al usuario realizar operaciones matemáticas como Fibonacci, factorial y sumas de números, ofreciendo un menú 
+interactivo para seleccionar la operación deseada y mostrar el resultado correspondiente.*/
 
 #include <iostream>
 #include <math.h>
